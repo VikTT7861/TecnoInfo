@@ -49,7 +49,7 @@ app.get('/acercaDe', function(req, res) {
 });
 
 app.get('/PuntoAPunto', function(req, res) {
-  res.sendFile(__dirname + '/templates/puntoAPunto.html');
+  res.sendFile(__dirname + '/templates/puntoApunto.html');
 });
 
 /************** redirection templates Spanish ***************/
@@ -90,7 +90,7 @@ app.get('/aboutUs', function(req, res) {
 });
 
 app.get('/PointToPoint', function(req, res) {
-  res.sendFile(__dirname + '/templates/PointToPoint.html');
+  res.sendFile(__dirname + '/templates/pointToPoint.html');
 });
 
 /************** redirection templates English ***************/
