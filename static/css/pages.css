@@ -98,6 +98,66 @@ hr{
   left: 55px;
 }
 
+#puntoApunto{
+  margin: auto;
+  position: relative;
+  right: 50px;
+}
+
+#IsoStationairMAXAC{
+  margin: auto;
+  position: relative;
+  right: 50px;
+}
+
+#PuntosdeAceso{
+  margin: auto;
+  position: relative;
+  right: 50px;
+}
+
+#OSPF{
+  margin: auto;
+  position: relative;
+  right: 50px;
+}
+
+#Routeri{
+  margin: auto;
+  position: relative;
+  right: 50px;
+}
+
+#Flex{
+  margin: auto;
+  position: relative;
+  right: 50px;
+}
+
+#EdgeSwitch16XG{
+  margin: auto;
+  position: relative;
+  right: 50px;
+}
+
+#UniFiDreamMachinePro{
+  margin: auto;
+  position: relative;
+  right: 50px;
+}
+
+#NanoSwitch{
+  margin: auto;
+  position: relative;
+  right: 50px;
+}
+
+#nano{
+  margin: auto;
+  position: relative;
+  right: 50px;
+}
+
 #tiposServ{
   margin: auto;
   position: relative;

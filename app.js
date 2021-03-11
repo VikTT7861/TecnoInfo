@@ -48,6 +48,10 @@ app.get('/acercaDe', function(req, res) {
   res.sendFile(__dirname + '/templates/acercaDe.html');
 });
 
+app.get('/PuntoAPunto', function(req, res) {
+  res.sendFile(__dirname + '/templates/puntoAPunto.html');
+});
+
 /************** redirection templates Spanish ***************/
 
 
@@ -83,6 +87,10 @@ app.get('/servers', function(req, res) {
 
 app.get('/aboutUs', function(req, res) {
   res.sendFile(__dirname + '/templates/aboutUs.html');
+});
+
+app.get('/PointToPoint', function(req, res) {
+  res.sendFile(__dirname + '/templates/PointToPoint.html');
 });
 
 /************** redirection templates English ***************/
